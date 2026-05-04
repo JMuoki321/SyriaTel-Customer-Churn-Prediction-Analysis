@@ -1,6 +1,7 @@
 # SyriaTel Customer Churn Analysis
 
 **Author:** Joel Muoki Andrew 
+
 **Date:** April 2026  
 
 ## Overview
