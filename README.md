@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project builds a binary classification model to predict whether a SyriaTel customer will churn — that is, stop doing business with the company. Early identification of at-risk customers allows the retention team to intervene with targeted offers before those customers leave, directly reducing revenue loss.
+This project documents a full end-to-end data science workflow for predicting customer churn at SyriaTel, a telecommunications company. Customer churn refers to the phenomenon where customers stop using a company's services. Identifying customers likely to churn before they do allow businesses to take proactive retention action, saving significant revenue.
 
 ---
 
